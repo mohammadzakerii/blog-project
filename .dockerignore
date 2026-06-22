@@ -1,0 +1,11 @@
+
+blog_v/
+
+*.pyc
+
+__pycashe__/
+
+sb.sqlite3
+
+.git/
+.gitignore
